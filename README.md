@@ -5,3 +5,6 @@ As its name indicates, it is based on the DS version of the famous game __Tetris
 The first mode is just the standard version of Tetris, which was created decades ago.
 
 The second mode allows two players to play together, where the goal is to make the other player lose by pushing the limit of their area.
+
+## Run the game
+To run the game, simply double click on the file _run.bat_. You will need _Java_ installed.
